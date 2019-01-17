@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Release\)包含从另一个项目(AppSingleTracer_v4.0.vcxproj, AppSingleTracer_v4.1.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+  AppSingleTracer_v4.1.cpp
+D:\opencv\build\include\opencv2\gpu\gpu.hpp(1821): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码
+  All 1179 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  AppSingleTracer_v4.0.vcxproj -> D:\syncbox\computer science\VC++ projects\Project - SingleTracer v.4.0\App - integrated MultiTask\AppSingleTracer_v4.0\Release\AppSingleTracer_v4.2.exe
