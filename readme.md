@@ -36,15 +36,15 @@ information of files and directories in this project
 **autodetect**
 
 	[Dependencies]
-    		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
+		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
 	[Content]
-    		<autodetect> pretrained ANN parameters, involving in semi-auto detection of tubes containing traced flies.
-    		<autodetect/glasstubes - pixels> Scripts that build model network and create dataset during model training.
+		<autodetect> pretrained ANN parameters, involving in semi-auto detection of tubes containing traced flies.
+		<autodetect/glasstubes - pixels> Scripts that build model network and create dataset during model training.
 		
 **SingleTracer_v4.0**
 
 	[Dependencies]
-    		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
+		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
 	[Content]
 		OpenCV-based multi-thread tracer of fly activities.
 		v4.0 is the previous stable version, which is reserved here as a backup.
