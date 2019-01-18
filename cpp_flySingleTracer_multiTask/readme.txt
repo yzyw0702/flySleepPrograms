@@ -12,6 +12,7 @@ AppSingleTracer_v4.0 是Windows平台上运行的高通量果蝇运动追踪程�
     4. 该程序已经在实验室使用长达4年之久，中间增删了很多功能细节，运行稳定可靠。
 
 模块简介：
+    （所在位置 ./Classes）
     MDataManger.hpp:
         该追踪程序自定义的交换数据结构，配置文件框架是yaml，追踪数据储存均为csv格式，背景和配置图像为png格式。
     MDynamicGrBgManager.hpp:
@@ -41,8 +42,11 @@ AppSingleTracer_v4.0 是Windows平台上运行的高通量果蝇运动追踪程�
     testsuite.h:
         模块单元检测集。
 
-App - MultiTask
+App - Integrated fly MultiTracer （./App - Integrated fly MultiTracer/AppSingleTracer_v4.0）
+    AppSingleTracer_v4.1.cpp
     程序主入口，包含多任务同步处理方法，已做硬件优化。
+    AppSingleTracer_v4.2.sln
+    VS2017项目入口。
 
 /////////////////////////////////////////////////////////////////////////////
 其他标准文件:
