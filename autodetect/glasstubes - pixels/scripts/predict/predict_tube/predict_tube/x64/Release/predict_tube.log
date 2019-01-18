@@ -1,0 +1,19 @@
+﻿生成启动时间为 2015/8/25 10:10:30。
+     1>项目“E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\predict_tube\predict_tube.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Release\predict_tube.pch" /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt predict_tube.cpp
+         predict_tube.cpp
+     1>e:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\predict_tube\../../classes/MPredictor.hpp(126): warning C4244: “=”: 从“const float”转换到“uchar”，可能丢失数据
+     1>e:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\predict_tube\../../classes/MPredictor.hpp(180): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>e:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\predict_tube\../../classes/MPredictor.hpp(184): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\x64\Release\predict_tube.exe" /INCREMENTAL:NO /NOLOGO opencv_core2411.lib opencv_imgproc2411.lib opencv_highgui2411.lib opencv_gpu2411.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\x64\Release\predict_tube.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\x64\Release\predict_tube.lib" /MACHINE:X64 x64\Release\predict_tube.obj
+         x64\Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         predict_tube.vcxproj -> E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\x64\Release\predict_tube.exe
+     1>已完成生成项目“E:\kanbox\computer science\training_projects\glasstubes - pixels\scripts\predict\predict_tube\predict_tube\predict_tube.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29
