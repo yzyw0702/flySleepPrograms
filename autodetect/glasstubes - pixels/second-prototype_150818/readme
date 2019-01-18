@@ -1,0 +1,13 @@
+% dataset.mat
+4 matrices; for each of them:
+[m x n] matrix, m data-points, n features.
+
+% dataset_ori.mat
+original data collection.
+[m x (n+1)] matrix, m data-points, n features, last column is y;
+y(j)=1 means positive data; y(j)=0 means negative data.
+Need random reshuffling before use.
+
+% dataset_enh.mat
+data collection derived from original data, with 3 different flipping operations.
+data distribution is similar to data_ori.mat

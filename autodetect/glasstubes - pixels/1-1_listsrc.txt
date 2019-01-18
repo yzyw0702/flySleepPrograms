@@ -1,0 +1,24 @@
+D:\video\20150102_ppGpp-assay\raw-before\ch2
+D:\video\20150102_ppGpp-assay\raw-before\ch5
+D:\video\20150102_ppGpp-assay\raw-before\ch6
+D:\video\20150102_ppGpp-assay\raw-before\ch8
+D:\video\20150325_elav-RelA-sleep\raw\009
+D:\video\20150325_elav-RelA-sleep\raw\010
+D:\video\20150325_elav-RelA-sleep\raw\011
+D:\video\20150425_sd_method_isoCSf\video\002-after-wrap\002-after
+D:\video\20150425_sd_method_isoCSf\video\002-before-wrap\002-before
+D:\video\20150425_sd_method_isoCSf\video\after\001
+D:\video\20150425_sd_method_isoCSf\video\after\003
+D:\video\20150425_sd_method_isoCSf\video\after\006
+D:\video\20150425_sd_method_isoCSf\video\after\007
+D:\video\20150425_sd_method_isoCSf\video\before\001
+D:\video\20150425_sd_method_isoCSf\video\before\003
+D:\video\20150425_sd_method_isoCSf\video\before\006
+D:\video\20150425_sd_method_isoCSf\video\before\007
+D:\video\20150425_sd_method_isoCSf\video\during\motor
+D:\video\20150425_sd_method_isoCSf\video\during\sound
+D:\video\20150503_UR_elav-appl-cs_sleep_sd\elav ur10 ur3 appl\d2ch12
+D:\video\20150503_UR_elav-appl-cs_sleep_sd\elav ur10 ur3 appl\d2ch15
+D:\video\20150503_UR_elav-appl-cs_sleep_sd\ur10 cs elav\d1ch3
+D:\video\20150503_UR_elav-appl-cs_sleep_sd\ur15 cs elav\d1ch7
+D:\video\20150503_UR_elav-appl-cs_sleep_sd\ur15 ur16 appl\d1ch5
