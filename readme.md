@@ -2,7 +2,7 @@
 High-throughput multi-target fly tracer and sleep analyser
 ---
 
-** features **
+**features**
 	
 	1. introduction:
 		
@@ -56,7 +56,7 @@ information of files and directories in this project
 	[Content]
 		python GUI that summarizes the sleep analysis of a tracing result.
 		
-**other scripts *.py**
+**other scripts .py**
 
 	[Dependencies]
 		numpy, matplotlib, cv2.pyd
