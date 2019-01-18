@@ -1,8 +1,8 @@
-========================================================================
-      High-throughput multi-target fly tracer and sleep analyser
-========================================================================
+---
+High-throughput multi-target fly tracer and sleep analyser
+---
 
-*** features ***
+** features **
 	
 	1. introduction:
 		
@@ -19,11 +19,11 @@
 		data cleaning and post-analysis
 
 
-========================================================================
-      information of files and directories in this project
-========================================================================
+---
+information of files and directories in this project
+---
 
-*** integrated sleep program ***
+**integrated sleep program**
 
 	[Dependencies]
 		cv2.pyd, numpy, matplotlib;
@@ -33,7 +33,7 @@
 		main entry: launch.py
 		based on Python-2.7, which gather all programs in pipeline togather
 		
-*** autodetect ***
+**autodetect**
 
 	[Dependencies]
     		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
@@ -41,7 +41,7 @@
     		<autodetect> pretrained ANN parameters, involving in semi-auto detection of tubes containing traced flies.
     		<autodetect/glasstubes - pixels> Scripts that build model network and create dataset during model training.
 		
-*** SingleTracer_v4.0 ***
+**SingleTracer_v4.0**
 
 	[Dependencies]
     		opencv_core2413.lib, opencv_highgui2413.lib, opencv_imgproc2413.lib, opencv_ffmpeg2413_x64.lib
@@ -49,14 +49,14 @@
 		OpenCV-based multi-thread tracer of fly activities.
 		v4.0 is the previous stable version, which is reserved here as a backup.
 		
-*** MSleepSummariser_20160616 ***
+**MSleepSummariser_20160616**
 
 	[Dependencies]
 		numpy, matplotlib, pandas, tkinter
 	[Content]
 		python GUI that summarizes the sleep analysis of a tracing result.
 		
-*** other scripts *.py ***
+**other scripts *.py**
 
 	[Dependencies]
 		numpy, matplotlib, cv2.pyd
@@ -77,7 +77,7 @@
 		> tracePlayer_v0730.exe && tracePlayer-queue_v0801.exe: replay of tracing coordinates generated from singleFlyTracer, which directly show replay in a window or output a series of labeled images for specified time range, correspondingly.
 		
   
-//////////////////////////////////////////////////////////////////////
-/////////////////////////// Other notes //////////////////////////////
-//////////////////////////////////////////////////////////////////////
+---
+Other notes 
+---
 	白色胶条：5孔（含边界）=44mm
