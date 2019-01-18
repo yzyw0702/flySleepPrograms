@@ -2,6 +2,27 @@
       High-throughput multi-target fly tracer and sleep analyser
 ========================================================================
 
+*** features ***
+	
+	1. introduction:
+		
+		
+
+	2. Pipeline:
+	
+		   video format convertion
+			     v
+		tracking of animal coordinates
+			     v
+		   raw analysis of sleep
+			     v
+		data cleaning and post-analysis
+
+
+========================================================================
+      information of files and directories in this project
+========================================================================
+
 *** integrated sleep program ***
 
 	[Dependencies]
