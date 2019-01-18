@@ -1,0 +1,34 @@
+# configure tracing start time point
+# used in stvresistance.exe
+starttime	2018-04-27-10.20.51
+# configure tracing stop time point
+# used in stvresistance.exe
+stoptime	2018-04-29-20.00.00-22.00.00
+# configure the time unit for survival curve (format: year-month-day-hour.minute.second)
+# used in stvresistance.exe
+timeunit	0-0-0-02.00.00
+# configure duration for computiong mean-frame
+# used in stvresistance.exe
+duration	0-0-0-01.00.00
+nJump	200
+# configure fps (frame per second)
+# used in stvresistance.exe
+fps	5
+# configure group name and group members
+# format: <channel index>	<group name>, <group name>, ...
+ch-1	isoCS, isoCS
+ch-2	Mesh1KO, Mesh1KO
+ch-3	UMA1/+, UMA1/+
+ch-4	UM1/+, UM1/+
+ch-5	M1KO_UMA1/+, M1KO_UMA1/+
+ch-6	M1KO_UM1/+, M1KO_UM1/+
+ch-7	UAS-NaChBac/+, UAS-NaChBac/+
+ch-8	UAS-Kir/+, UAS-Kir/+
+ch-9	M1KO/+ > NaChBac/+, M1KO/+ > NaChBac/+
+ch-10	M1KO/+ > Kir/+, M1KO/+ > Kir/+
+ch-11	M1KO/+ > RelA/+, M1KO/+ > RelA/+
+ch-12	UAS-RelA/+, UAS-RelA/+
+ch-13	M1KO/+, M1KO/+
+ch-14	Dilp2/+ > Kir/+, Dilp2/+ > Kir/+
+ch-15	Dilp2/+, Dilp2/+
+ch-16	UAS-Kir/+, UAS-Kir/+
