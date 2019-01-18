@@ -6,17 +6,26 @@ High-throughput multi-target fly tracer and sleep analyser
 	
 	1. introduction:
 		
+		This program convert fly video to coordinates by tracking, and then convert coordinates data to sleep data, and at last analyze sleep in a series of parameters about sleep.
 		
 
 	2. Pipeline:
 	
-		   video format convertion
+		(1) video format convertion
 			     v
-		tracking of animal coordinates
+		(2) tracking of animal coordinates
 			     v
-		   raw analysis of sleep
+		(3) raw analysis of sleep
 			     v
-		data cleaning and post-analysis
+		(4) data cleaning and post-analysis
+	
+	Step (1):
+	
+		![avatar](https://github.com/yzyw0702/flySleepPrograms/blob/master/background.png)
+		
+	Step (2):
+		
+		
 
 
 ---
