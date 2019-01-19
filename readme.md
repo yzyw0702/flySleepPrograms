@@ -25,7 +25,7 @@ High-throughput multi-target fly tracer and sleep analyser
 	
 Step (1):
 	
-![avatar](https://github.com/yzyw0702/flySleepPrograms/blob/master/bgmodel.png)
+![avatar](https://github.com/yzyw0702/flySleepPrograms/blob/master/dynbgmodel.png)
 		
 Step (2):
 		
