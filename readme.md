@@ -12,15 +12,25 @@ High-throughput multi-target fly tracer and sleep analyser
 2. Pipeline:
 	
 	(1) video preparation and background initiation
+
 			v
+
 	(2.1) configure ROI of fly-containing tubes
+
 			v
+
 	(2.2) tracing flies with multi-thread on CPU
+
 			v
+
 	(3.1) configure time schedule etc.
+
 			v
+
 	(3.2) analysis of sleep parameters
+
 			v
+
 	(4) analysis summary and curve plot
 	
 Step (1):
